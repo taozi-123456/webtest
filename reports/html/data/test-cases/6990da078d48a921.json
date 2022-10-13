@@ -1,0 +1,134 @@
+{
+  "uid" : "6990da078d48a921",
+  "name" : "test_login_fail_spark[case0]",
+  "fullName" : "Test_Cases.test_login.Test_login#test_login_fail_spark",
+  "historyId" : "b25e5cb4259ffee6e487779d30980285",
+  "time" : {
+    "start" : 1665473787620,
+    "stop" : 1665473788772,
+    "duration" : 1152
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "init",
+    "time" : {
+      "start" : 1665473784601,
+      "stop" : 1665473787619,
+      "duration" : 3018
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "init",
+    "time" : {
+      "start" : 1665473791112,
+      "stop" : 1665473795277,
+      "duration" : 4165
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "init::0",
+    "time" : {
+      "start" : 1665473788774,
+      "stop" : 1665473791102,
+      "duration" : 2328
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "init::0",
+    "time" : {
+      "start" : 1665473796368,
+      "stop" : 1665473798623,
+      "duration" : 2255
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('init')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test_Cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_login"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-41KMUJO"
+  }, {
+    "name" : "thread",
+    "value" : "10244-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_Cases.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "{'username': '', 'passwd': '123456', 'check': 'Please enter your username and password.'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b4063e837616319e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665473641000,
+        "stop" : 1665473642165,
+        "duration" : 1165
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.usefixtures('init')" ]
+  },
+  "source" : "6990da078d48a921.json",
+  "parameterValues" : [ "{'username': '', 'passwd': '123456', 'check': 'Please enter your username and password.'}" ]
+}

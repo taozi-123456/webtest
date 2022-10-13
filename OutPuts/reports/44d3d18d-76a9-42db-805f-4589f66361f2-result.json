@@ -1,0 +1,3 @@
+{"name": "test_login_success", "status": "passed", "start": 1665453383175, "stop": 1665453384669, "uuid": "89ba2a5e-2d44-4a63-916e-1c607fa8577a", "historyId": "ea36009ccc6ba78d59a317191a0aa552", "testCaseId": "93e5c124dea2f9f98dd328f4fc229d0c",
+
+  "fullName": "Test_Cases.test_login.Test_login#test_login_success", "labels": [{"name": "tag", "value": "@pytest.mark.usefixtures('init')"}, {"name": "parentSuite", "value": "Test_Cases"}, {"name": "suite", "value": "test_login"}, {"name": "subSuite", "value": "Test_login"}, {"name": "host", "value": "DESKTOP-41KMUJO"}, {"name": "thread", "value": "5868-MainThread"}, {"name": "framework", "value": "pytest"}, {"name": "language", "value": "cpython3"}, {"name": "package", "value": "Test_Cases.test_login"}]}

@@ -1,0 +1,1289 @@
+2022-10-10 15:50:52,925 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 15:50:52,926 INFO BasePage.py-46行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-10 15:50:52,940 INFO BasePage.py-59行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-10 15:50:57,114 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 15:50:57,115 INFO BasePage.py-46行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-10 15:50:57,126 INFO BasePage.py-69行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-10 15:50:57,394 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 15:50:57,395 INFO BasePage.py-46行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-10 15:50:57,450 INFO BasePage.py-69行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-10 15:50:57,615 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 15:50:57,615 INFO BasePage.py-46行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-10 15:50:57,624 INFO BasePage.py-59行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-10 15:50:58,248 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 15:53:49,654 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 15:53:53,777 INFO BasePage.py-46行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-10 15:54:01,128 INFO BasePage.py-59行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-10 15:54:22,662 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 15:54:24,407 INFO BasePage.py-46行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-10 15:54:30,455 INFO BasePage.py-69行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-10 15:54:43,097 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 15:54:44,498 INFO BasePage.py-46行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-10 15:54:48,008 INFO BasePage.py-69行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-10 15:54:57,517 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 15:54:58,413 INFO BasePage.py-46行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-10 15:55:01,728 INFO BasePage.py-59行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-10 15:56:16,450 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 15:59:08,629 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 15:59:08,630 INFO BasePage.py-46行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-10 15:59:08,643 INFO BasePage.py-59行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-10 15:59:09,053 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 15:59:09,053 INFO BasePage.py-46行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-10 15:59:09,063 INFO BasePage.py-69行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-10 15:59:09,207 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 15:59:09,207 INFO BasePage.py-46行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-10 15:59:09,218 INFO BasePage.py-69行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-10 15:59:09,413 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 15:59:09,413 INFO BasePage.py-46行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-10 15:59:09,424 INFO BasePage.py-59行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-10 15:59:09,971 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 16:00:48,086 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 16:00:48,087 INFO BasePage.py-46行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-10 16:00:48,104 INFO BasePage.py-59行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-10 16:00:48,651 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 16:00:48,651 INFO BasePage.py-46行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-10 16:00:48,664 INFO BasePage.py-69行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-10 16:00:48,847 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 16:00:48,847 INFO BasePage.py-46行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-10 16:00:48,862 INFO BasePage.py-69行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-10 16:00:49,091 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 16:00:49,091 INFO BasePage.py-46行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-10 16:00:49,103 INFO BasePage.py-59行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-10 16:00:49,924 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 16:02:21,090 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 16:02:21,093 INFO BasePage.py-46行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-10 16:02:21,106 INFO BasePage.py-59行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-10 16:02:26,769 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 16:02:26,770 INFO BasePage.py-46行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-10 16:02:26,783 INFO BasePage.py-69行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi元素
+2022-10-10 16:02:26,951 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 16:02:26,952 INFO BasePage.py-46行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-10 16:02:26,970 INFO BasePage.py-69行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-10 16:02:27,217 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 16:02:27,217 INFO BasePage.py-46行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-10 16:02:27,227 INFO BasePage.py-59行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-10 16:02:47,813 ERROR BasePage.py-36行:等待元素可见失败
+Traceback (most recent call last):
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\Common\BasePage.py", line 34, in wait_visibi_time
+    WebDriverWait(self.driver,timeout,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 90, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00B7DF13+2219795]
+	Ordinal0 [0x00B12841+1779777]
+	Ordinal0 [0x00A2423D+803389]
+	Ordinal0 [0x00A53025+995365]
+	Ordinal0 [0x00A531EB+995819]
+	Ordinal0 [0x00A80F52+1183570]
+	Ordinal0 [0x00A6E844+1108036]
+	Ordinal0 [0x00A7F192+1175954]
+	Ordinal0 [0x00A6E616+1107478]
+	Ordinal0 [0x00A47F89+950153]
+	Ordinal0 [0x00A48F56+954198]
+	GetHandleVerifier [0x00E72CB2+3040210]
+	GetHandleVerifier [0x00E62BB4+2974420]
+	GetHandleVerifier [0x00C16A0A+565546]
+	GetHandleVerifier [0x00C15680+560544]
+	Ordinal0 [0x00B19A5C+1808988]
+	Ordinal0 [0x00B1E3A8+1827752]
+	Ordinal0 [0x00B1E495+1827989]
+	Ordinal0 [0x00B280A4+1867940]
+	BaseThreadInitThunk [0x760CFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F17B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F17B2E+238]
+
+2022-10-10 16:02:47,822 INFO BasePage.py-27行:错误截图输出的路径C:\Users\ThinkPad\PycharmProjects\pythonProject2\OutPuts/screenshots\首页退出登录元素可见_2022-02-10 16:02:47.png
+2022-10-10 16:04:04,837 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 16:04:04,838 INFO BasePage.py-46行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-10 16:04:04,853 INFO BasePage.py-59行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-10 16:04:09,804 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 16:04:09,804 INFO BasePage.py-46行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-10 16:04:09,813 INFO BasePage.py-69行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi元素
+2022-10-10 16:04:09,933 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 16:04:09,934 INFO BasePage.py-46行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-10 16:04:09,945 INFO BasePage.py-69行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-10 16:04:10,127 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 16:04:10,127 INFO BasePage.py-46行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-10 16:04:10,139 INFO BasePage.py-59行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-10 16:04:30,741 ERROR BasePage.py-36行:等待元素可见失败
+Traceback (most recent call last):
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\Common\BasePage.py", line 34, in wait_visibi_time
+    WebDriverWait(self.driver,timeout,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 90, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00B7DF13+2219795]
+	Ordinal0 [0x00B12841+1779777]
+	Ordinal0 [0x00A2423D+803389]
+	Ordinal0 [0x00A53025+995365]
+	Ordinal0 [0x00A531EB+995819]
+	Ordinal0 [0x00A80F52+1183570]
+	Ordinal0 [0x00A6E844+1108036]
+	Ordinal0 [0x00A7F192+1175954]
+	Ordinal0 [0x00A6E616+1107478]
+	Ordinal0 [0x00A47F89+950153]
+	Ordinal0 [0x00A48F56+954198]
+	GetHandleVerifier [0x00E72CB2+3040210]
+	GetHandleVerifier [0x00E62BB4+2974420]
+	GetHandleVerifier [0x00C16A0A+565546]
+	GetHandleVerifier [0x00C15680+560544]
+	Ordinal0 [0x00B19A5C+1808988]
+	Ordinal0 [0x00B1E3A8+1827752]
+	Ordinal0 [0x00B1E495+1827989]
+	Ordinal0 [0x00B280A4+1867940]
+	BaseThreadInitThunk [0x760CFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F17B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F17B2E+238]
+
+2022-10-10 16:04:30,742 INFO BasePage.py-27行:错误截图输出的路径C:\Users\ThinkPad\PycharmProjects\pythonProject2\OutPuts/Screenshots\首页退出登录元素可见_2022-04-10 16:04:30.png
+2022-10-10 16:09:02,201 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 16:09:02,202 INFO BasePage.py-46行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-10 16:09:02,217 INFO BasePage.py-59行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-10 16:09:02,950 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 16:09:02,950 INFO BasePage.py-46行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-10 16:09:02,962 INFO BasePage.py-69行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi元素
+2022-10-10 16:09:03,098 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 16:09:03,098 INFO BasePage.py-46行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-10 16:09:03,111 INFO BasePage.py-69行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-10 16:09:03,317 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 16:09:03,318 INFO BasePage.py-46行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-10 16:09:03,333 INFO BasePage.py-59行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-10 16:09:24,067 ERROR BasePage.py-36行:等待元素可见失败
+Traceback (most recent call last):
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\Common\BasePage.py", line 34, in wait_visibi_time
+    WebDriverWait(self.driver,timeout,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 90, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00B7DF13+2219795]
+	Ordinal0 [0x00B12841+1779777]
+	Ordinal0 [0x00A2423D+803389]
+	Ordinal0 [0x00A53025+995365]
+	Ordinal0 [0x00A531EB+995819]
+	Ordinal0 [0x00A80F52+1183570]
+	Ordinal0 [0x00A6E844+1108036]
+	Ordinal0 [0x00A7F192+1175954]
+	Ordinal0 [0x00A6E616+1107478]
+	Ordinal0 [0x00A47F89+950153]
+	Ordinal0 [0x00A48F56+954198]
+	GetHandleVerifier [0x00E72CB2+3040210]
+	GetHandleVerifier [0x00E62BB4+2974420]
+	GetHandleVerifier [0x00C16A0A+565546]
+	GetHandleVerifier [0x00C15680+560544]
+	Ordinal0 [0x00B19A5C+1808988]
+	Ordinal0 [0x00B1E3A8+1827752]
+	Ordinal0 [0x00B1E495+1827989]
+	Ordinal0 [0x00B280A4+1867940]
+	BaseThreadInitThunk [0x760CFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F17B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F17B2E+238]
+
+2022-10-10 16:09:24,071 INFO BasePage.py-27行:错误截图输出的路径C:\Users\ThinkPad\PycharmProjects\pythonProject2\OutPuts\Screenshots\首页退出登录元素可见_2022-09-10 16:09:24.png
+2022-10-10 16:22:01,060 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 16:22:01,061 INFO BasePage.py-46行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-10 16:22:01,079 INFO BasePage.py-59行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-10 16:22:01,794 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 16:22:01,794 INFO BasePage.py-46行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-10 16:22:01,832 INFO BasePage.py-69行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi元素
+2022-10-10 16:22:02,138 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 16:22:02,139 INFO BasePage.py-46行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-10 16:22:02,153 INFO BasePage.py-69行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-10 16:22:02,427 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 16:22:02,428 INFO BasePage.py-46行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-10 16:22:02,441 INFO BasePage.py-59行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-10 16:22:23,207 ERROR BasePage.py-36行:等待元素可见失败
+Traceback (most recent call last):
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\Common\BasePage.py", line 34, in wait_visibi_time
+    WebDriverWait(self.driver,timeout,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 90, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00B7DF13+2219795]
+	Ordinal0 [0x00B12841+1779777]
+	Ordinal0 [0x00A2423D+803389]
+	Ordinal0 [0x00A53025+995365]
+	Ordinal0 [0x00A531EB+995819]
+	Ordinal0 [0x00A80F52+1183570]
+	Ordinal0 [0x00A6E844+1108036]
+	Ordinal0 [0x00A7F192+1175954]
+	Ordinal0 [0x00A6E616+1107478]
+	Ordinal0 [0x00A47F89+950153]
+	Ordinal0 [0x00A48F56+954198]
+	GetHandleVerifier [0x00E72CB2+3040210]
+	GetHandleVerifier [0x00E62BB4+2974420]
+	GetHandleVerifier [0x00C16A0A+565546]
+	GetHandleVerifier [0x00C15680+560544]
+	Ordinal0 [0x00B19A5C+1808988]
+	Ordinal0 [0x00B1E3A8+1827752]
+	Ordinal0 [0x00B1E495+1827989]
+	Ordinal0 [0x00B280A4+1867940]
+	BaseThreadInitThunk [0x760CFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F17B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F17B2E+238]
+
+2022-10-10 16:22:23,211 INFO BasePage.py-27行:错误截图输出的路径C:\Users\ThinkPad\PycharmProjects\pythonProject2\OutPuts\Screenshots\首页退出登录元素可见_2022-22-10 16:22:23.png
+2022-10-10 16:50:42,710 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 16:50:42,711 INFO BasePage.py-46行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-10 16:50:42,726 INFO BasePage.py-59行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-10 16:50:43,222 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 16:50:43,223 INFO BasePage.py-46行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-10 16:50:43,239 INFO BasePage.py-69行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi元素
+2022-10-10 16:50:43,420 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 16:50:43,421 INFO BasePage.py-46行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-10 16:50:43,435 INFO BasePage.py-69行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-10 16:50:43,697 INFO BasePage.py-40行:等待元素可见成功
+2022-10-10 16:50:43,698 INFO BasePage.py-46行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-10 16:50:43,708 INFO BasePage.py-59行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-10 16:51:04,183 ERROR BasePage.py-36行:等待元素可见失败
+Traceback (most recent call last):
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\Common\BasePage.py", line 34, in wait_visibi_time
+    WebDriverWait(self.driver,timeout,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 90, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00B7DF13+2219795]
+	Ordinal0 [0x00B12841+1779777]
+	Ordinal0 [0x00A2423D+803389]
+	Ordinal0 [0x00A53025+995365]
+	Ordinal0 [0x00A531EB+995819]
+	Ordinal0 [0x00A80F52+1183570]
+	Ordinal0 [0x00A6E844+1108036]
+	Ordinal0 [0x00A7F192+1175954]
+	Ordinal0 [0x00A6E616+1107478]
+	Ordinal0 [0x00A47F89+950153]
+	Ordinal0 [0x00A48F56+954198]
+	GetHandleVerifier [0x00E72CB2+3040210]
+	GetHandleVerifier [0x00E62BB4+2974420]
+	GetHandleVerifier [0x00C16A0A+565546]
+	GetHandleVerifier [0x00C15680+560544]
+	Ordinal0 [0x00B19A5C+1808988]
+	Ordinal0 [0x00B1E3A8+1827752]
+	Ordinal0 [0x00B1E495+1827989]
+	Ordinal0 [0x00B280A4+1867940]
+	BaseThreadInitThunk [0x760CFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F17B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F17B2E+238]
+
+2022-10-10 16:51:04,188 INFO BasePage.py-27行:错误截图输出的路径C:\Users\ThinkPad\PycharmProjects\pythonProject2\OutPuts\Screenshots\首页退出登录元素可见_2022-51-10 16:51:04.png
+2022-10-10 17:04:49,255 INFO BasePage.py-41行:等待元素可见成功
+2022-10-10 17:04:49,256 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-10 17:04:49,283 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-10 17:04:49,793 INFO BasePage.py-41行:等待元素可见成功
+2022-10-10 17:04:49,793 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-10 17:04:49,803 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi元素
+2022-10-10 17:04:49,973 INFO BasePage.py-41行:等待元素可见成功
+2022-10-10 17:04:49,974 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-10 17:04:49,990 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-10 17:04:50,221 INFO BasePage.py-41行:等待元素可见成功
+2022-10-10 17:04:50,221 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-10 17:04:50,232 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-10 17:05:10,760 ERROR BasePage.py-37行:等待元素可见失败
+Traceback (most recent call last):
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\Common\BasePage.py", line 35, in wait_visibi_time
+    WebDriverWait(self.driver,timeout,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 90, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00B7DF13+2219795]
+	Ordinal0 [0x00B12841+1779777]
+	Ordinal0 [0x00A2423D+803389]
+	Ordinal0 [0x00A53025+995365]
+	Ordinal0 [0x00A531EB+995819]
+	Ordinal0 [0x00A80F52+1183570]
+	Ordinal0 [0x00A6E844+1108036]
+	Ordinal0 [0x00A7F192+1175954]
+	Ordinal0 [0x00A6E616+1107478]
+	Ordinal0 [0x00A47F89+950153]
+	Ordinal0 [0x00A48F56+954198]
+	GetHandleVerifier [0x00E72CB2+3040210]
+	GetHandleVerifier [0x00E62BB4+2974420]
+	GetHandleVerifier [0x00C16A0A+565546]
+	GetHandleVerifier [0x00C15680+560544]
+	Ordinal0 [0x00B19A5C+1808988]
+	Ordinal0 [0x00B1E3A8+1827752]
+	Ordinal0 [0x00B1E495+1827989]
+	Ordinal0 [0x00B280A4+1867940]
+	BaseThreadInitThunk [0x760CFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F17B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F17B2E+238]
+
+2022-10-10 17:05:10,764 INFO BasePage.py-28行:错误截图输出的路径C:\Users\ThinkPad\PycharmProjects\pythonProject2\OutPuts\Screenshots\首页退出登录元素可见_2022-05-10 17:05:10.png
+2022-10-10 17:09:49,695 INFO BasePage.py-41行:等待元素可见成功
+2022-10-10 17:09:49,696 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-10 17:09:49,712 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-10 17:09:50,197 INFO BasePage.py-41行:等待元素可见成功
+2022-10-10 17:09:50,198 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-10 17:09:50,210 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi元素
+2022-10-10 17:09:50,355 INFO BasePage.py-41行:等待元素可见成功
+2022-10-10 17:09:50,355 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-10 17:09:50,364 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-10 17:09:50,552 INFO BasePage.py-41行:等待元素可见成功
+2022-10-10 17:09:50,552 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-10 17:09:50,565 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-10 17:10:11,104 ERROR BasePage.py-37行:等待元素可见失败
+Traceback (most recent call last):
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\Common\BasePage.py", line 35, in wait_visibi_time
+    WebDriverWait(self.driver,timeout,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 90, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x00B7DF13+2219795]
+	Ordinal0 [0x00B12841+1779777]
+	Ordinal0 [0x00A2423D+803389]
+	Ordinal0 [0x00A53025+995365]
+	Ordinal0 [0x00A531EB+995819]
+	Ordinal0 [0x00A80F52+1183570]
+	Ordinal0 [0x00A6E844+1108036]
+	Ordinal0 [0x00A7F192+1175954]
+	Ordinal0 [0x00A6E616+1107478]
+	Ordinal0 [0x00A47F89+950153]
+	Ordinal0 [0x00A48F56+954198]
+	GetHandleVerifier [0x00E72CB2+3040210]
+	GetHandleVerifier [0x00E62BB4+2974420]
+	GetHandleVerifier [0x00C16A0A+565546]
+	GetHandleVerifier [0x00C15680+560544]
+	Ordinal0 [0x00B19A5C+1808988]
+	Ordinal0 [0x00B1E3A8+1827752]
+	Ordinal0 [0x00B1E495+1827989]
+	Ordinal0 [0x00B280A4+1867940]
+	BaseThreadInitThunk [0x760CFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F17B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F17B2E+238]
+
+2022-10-10 17:10:11,109 INFO BasePage.py-28行:错误截图输出的路径C:\Users\ThinkPad\PycharmProjects\pythonProject2\OutPuts\Screenshots\首页退出登录元素可见_2022-10-10 17:10:11.png
+2022-10-11 09:02:25,286 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:02:25,289 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 09:02:25,300 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 09:02:25,700 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:02:25,700 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 09:02:25,709 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi元素
+2022-10-11 09:02:25,829 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:02:25,829 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 09:02:25,841 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 09:02:25,997 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:02:25,997 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 09:02:26,012 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 09:02:46,737 ERROR BasePage.py-37行:等待元素可见失败
+Traceback (most recent call last):
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\Common\BasePage.py", line 35, in wait_visibi_time
+    WebDriverWait(self.driver,timeout,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 90, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0080DF13+2219795]
+	Ordinal0 [0x007A2841+1779777]
+	Ordinal0 [0x006B423D+803389]
+	Ordinal0 [0x006E3025+995365]
+	Ordinal0 [0x006E31EB+995819]
+	Ordinal0 [0x00710F52+1183570]
+	Ordinal0 [0x006FE844+1108036]
+	Ordinal0 [0x0070F192+1175954]
+	Ordinal0 [0x006FE616+1107478]
+	Ordinal0 [0x006D7F89+950153]
+	Ordinal0 [0x006D8F56+954198]
+	GetHandleVerifier [0x00B02CB2+3040210]
+	GetHandleVerifier [0x00AF2BB4+2974420]
+	GetHandleVerifier [0x008A6A0A+565546]
+	GetHandleVerifier [0x008A5680+560544]
+	Ordinal0 [0x007A9A5C+1808988]
+	Ordinal0 [0x007AE3A8+1827752]
+	Ordinal0 [0x007AE495+1827989]
+	Ordinal0 [0x007B80A4+1867940]
+	BaseThreadInitThunk [0x760CFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F17B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F17B2E+238]
+
+2022-10-11 09:02:46,790 INFO BasePage.py-28行:错误截图输出的路径C:\Users\ThinkPad\PycharmProjects\pythonProject2\OutPuts\Screenshots\首页退出登录元素可见_2022-02-11-09-02-46.png
+2022-10-11 09:09:31,965 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:09:31,965 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 09:09:31,979 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 09:09:32,395 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:09:32,395 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 09:09:32,405 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-11 09:09:32,554 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:09:32,554 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 09:09:32,565 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 09:09:32,777 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:09:32,777 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 09:09:32,788 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 09:09:34,722 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:14:30,430 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:14:30,594 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 09:14:30,628 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 09:14:33,054 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:14:33,055 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 09:14:33,065 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-11 09:14:33,185 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:14:33,185 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 09:14:33,194 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 09:14:33,428 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:14:33,428 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 09:14:33,439 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 09:14:34,028 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:19:09,250 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:19:09,250 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 09:19:09,265 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 09:19:09,627 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:19:09,627 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 09:19:09,636 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-11 09:19:09,761 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:19:09,761 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 09:19:09,770 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 09:19:09,975 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:19:09,976 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 09:19:09,986 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 09:19:10,557 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:51:28,763 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:51:28,764 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 09:51:28,774 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 09:51:29,217 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:51:29,218 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 09:51:29,226 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-11 09:51:29,358 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:51:29,359 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 09:51:29,372 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 09:51:29,597 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:51:29,598 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 09:51:29,611 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 09:51:30,254 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:53:14,428 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:53:14,428 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 09:53:14,442 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 09:53:14,841 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:53:14,841 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 09:53:14,851 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-11 09:53:14,980 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:53:14,980 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 09:53:14,989 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 09:53:15,185 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:53:15,185 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 09:53:15,197 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 09:53:15,773 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:56:23,257 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:56:23,258 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 09:56:23,274 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 09:56:23,678 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:56:23,678 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 09:56:23,691 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-11 09:56:23,838 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:56:23,839 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 09:56:23,849 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 09:56:24,059 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 09:56:24,059 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 09:56:24,070 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 09:56:24,667 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 10:06:32,157 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 10:06:32,158 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 10:06:32,170 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 10:06:32,553 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 10:06:32,553 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 10:06:32,562 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-11 10:06:32,684 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 10:06:32,684 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 10:06:32,693 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 10:06:32,873 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 10:06:32,873 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 10:06:32,886 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 10:06:33,447 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 10:20:27,386 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 10:20:27,386 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 10:20:27,402 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 10:20:27,833 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 10:20:27,833 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 10:20:27,843 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-11 10:20:27,960 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 10:20:27,960 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 10:20:27,969 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 10:20:28,157 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 10:20:28,157 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 10:20:28,169 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 10:20:28,752 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:03:22,412 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:03:22,412 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 11:03:22,444 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 11:03:22,985 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:03:22,985 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 11:03:22,994 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入元素
+2022-10-11 11:03:23,097 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:03:23,097 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 11:03:23,105 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 11:03:23,265 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:03:23,266 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:03:23,276 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:03:26,920 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:03:26,921 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 11:03:26,936 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 11:03:27,331 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:03:27,331 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 11:03:27,346 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-11 11:03:27,478 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:03:27,479 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 11:03:27,487 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入元素
+2022-10-11 11:03:27,674 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:03:27,675 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:03:27,691 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:03:31,045 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:03:31,045 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 11:03:31,062 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 11:03:31,493 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:03:31,493 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 11:03:31,509 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi元素
+2022-10-11 11:03:31,694 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:03:31,694 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 11:03:31,705 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 11:03:31,936 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:03:31,936 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:03:31,949 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:04:38,677 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:04:38,678 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 11:04:38,694 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 11:04:39,148 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:04:39,148 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 11:04:39,157 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-11 11:04:39,287 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:04:39,287 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 11:04:39,296 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 11:04:39,474 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:04:39,474 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:04:39,485 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:04:40,134 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:04:45,516 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:04:45,517 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 11:04:45,546 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 11:04:46,044 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:04:46,044 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 11:04:46,055 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入元素
+2022-10-11 11:04:46,157 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:04:46,157 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 11:04:46,168 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 11:04:46,338 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:04:46,339 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:04:46,351 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:04:49,857 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:04:49,857 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 11:04:49,872 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 11:04:50,254 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:04:50,254 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 11:04:50,266 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-11 11:04:50,446 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:04:50,446 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 11:04:50,459 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入元素
+2022-10-11 11:04:50,665 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:04:50,666 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:04:50,683 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:04:54,389 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:04:54,390 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 11:04:54,405 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 11:04:54,784 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:04:54,784 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 11:04:54,795 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi元素
+2022-10-11 11:04:54,954 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:04:54,955 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 11:04:54,967 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 11:04:55,193 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:04:55,193 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:04:55,211 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:11:13,197 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:11:13,197 INFO BasePage.py-47行:获取点击登录行为的('link text', 'Sign In')元素
+2022-10-11 11:11:13,212 INFO BasePage.py-60行:获取点击登录行为的('link text', 'Sign In')元素
+2022-10-11 11:11:13,914 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:11:13,914 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 11:11:13,932 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-11 11:11:14,305 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:11:14,305 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 11:11:14,318 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 11:11:14,556 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:11:14,557 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:11:14,570 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:11:44,182 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:11:44,183 INFO BasePage.py-47行:获取点击登录行为的('link text', 'Sign In')元素
+2022-10-11 11:11:44,200 INFO BasePage.py-60行:获取点击登录行为的('link text', 'Sign In')元素
+2022-10-11 11:11:44,604 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:11:44,604 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 11:11:44,614 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi元素
+2022-10-11 11:11:44,727 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:11:44,728 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 11:11:44,736 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 11:11:45,079 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:11:45,079 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:11:45,088 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:12:37,452 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:12:37,452 INFO BasePage.py-47行:获取点击登录行为的('link text', 'Sign In')元素
+2022-10-11 11:12:37,466 INFO BasePage.py-60行:获取点击登录行为的('link text', 'Sign In')元素
+2022-10-11 11:12:37,934 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:12:37,935 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 11:12:37,949 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi元素
+2022-10-11 11:12:38,099 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:12:38,099 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 11:12:38,110 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 11:12:38,346 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:12:38,346 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:12:38,355 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:14:37,565 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:14:37,565 INFO BasePage.py-47行:获取点击登录行为的('link text', 'Sign In')元素
+2022-10-11 11:14:37,589 INFO BasePage.py-60行:获取点击登录行为的('link text', 'Sign In')元素
+2022-10-11 11:14:38,080 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:14:38,080 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 11:14:38,105 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi元素
+2022-10-11 11:14:38,442 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:14:38,442 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 11:14:38,458 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 11:14:38,638 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:14:38,639 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:14:38,648 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:14:59,030 ERROR BasePage.py-37行:等待元素可见失败
+Traceback (most recent call last):
+  File "C:/Users/ThinkPad/PycharmProjects/pythonProject2/Common/BasePage.py", line 35, in wait_visibi_time
+    WebDriverWait(self.driver,timeout,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 90, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0080DF13+2219795]
+	Ordinal0 [0x007A2841+1779777]
+	Ordinal0 [0x006B423D+803389]
+	Ordinal0 [0x006E3025+995365]
+	Ordinal0 [0x006E31EB+995819]
+	Ordinal0 [0x00710F52+1183570]
+	Ordinal0 [0x006FE844+1108036]
+	Ordinal0 [0x0070F192+1175954]
+	Ordinal0 [0x006FE616+1107478]
+	Ordinal0 [0x006D7F89+950153]
+	Ordinal0 [0x006D8F56+954198]
+	GetHandleVerifier [0x00B02CB2+3040210]
+	GetHandleVerifier [0x00AF2BB4+2974420]
+	GetHandleVerifier [0x008A6A0A+565546]
+	GetHandleVerifier [0x008A5680+560544]
+	Ordinal0 [0x007A9A5C+1808988]
+	Ordinal0 [0x007AE3A8+1827752]
+	Ordinal0 [0x007AE495+1827989]
+	Ordinal0 [0x007B80A4+1867940]
+	BaseThreadInitThunk [0x760CFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F17B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F17B2E+238]
+
+2022-10-11 11:14:59,072 INFO BasePage.py-28行:错误截图输出的路径C:\Users\ThinkPad\PycharmProjects\pythonProject2\OutPuts\Screenshots\获取登录失败的数据_2022-14-11-11-14-59.png
+2022-10-11 11:15:39,446 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:15:39,447 INFO BasePage.py-47行:获取点击登录行为的('link text', 'Sign In')元素
+2022-10-11 11:15:39,461 INFO BasePage.py-60行:获取点击登录行为的('link text', 'Sign In')元素
+2022-10-11 11:15:39,932 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:15:39,932 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 11:15:39,947 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi元素
+2022-10-11 11:15:40,111 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:15:40,111 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 11:15:40,123 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 11:15:40,356 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:15:40,357 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:15:40,372 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:16:00,838 ERROR BasePage.py-37行:等待元素可见失败
+Traceback (most recent call last):
+  File "C:/Users/ThinkPad/PycharmProjects/pythonProject2/Common/BasePage.py", line 35, in wait_visibi_time
+    WebDriverWait(self.driver,timeout,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 90, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0080DF13+2219795]
+	Ordinal0 [0x007A2841+1779777]
+	Ordinal0 [0x006B423D+803389]
+	Ordinal0 [0x006E3025+995365]
+	Ordinal0 [0x006E31EB+995819]
+	Ordinal0 [0x00710F52+1183570]
+	Ordinal0 [0x006FE844+1108036]
+	Ordinal0 [0x0070F192+1175954]
+	Ordinal0 [0x006FE616+1107478]
+	Ordinal0 [0x006D7F89+950153]
+	Ordinal0 [0x006D8F56+954198]
+	GetHandleVerifier [0x00B02CB2+3040210]
+	GetHandleVerifier [0x00AF2BB4+2974420]
+	GetHandleVerifier [0x008A6A0A+565546]
+	GetHandleVerifier [0x008A5680+560544]
+	Ordinal0 [0x007A9A5C+1808988]
+	Ordinal0 [0x007AE3A8+1827752]
+	Ordinal0 [0x007AE495+1827989]
+	Ordinal0 [0x007B80A4+1867940]
+	BaseThreadInitThunk [0x760CFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F17B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F17B2E+238]
+
+2022-10-11 11:16:00,839 INFO BasePage.py-28行:错误截图输出的路径C:\Users\ThinkPad\PycharmProjects\pythonProject2\OutPuts\Screenshots\获取登录失败的数据_2022-16-11-11-16-00.png
+2022-10-11 11:29:09,691 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:29:09,691 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 11:29:09,705 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 11:29:10,104 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:29:10,104 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 11:29:10,114 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-11 11:29:10,271 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:29:10,271 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 11:29:10,282 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 11:29:10,464 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:29:10,464 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:29:10,476 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:29:11,058 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:29:16,336 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:29:16,337 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 11:29:16,349 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 11:29:16,753 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:29:16,754 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 11:29:16,763 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入元素
+2022-10-11 11:29:16,862 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:29:16,862 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 11:29:16,871 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 11:29:17,026 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:29:17,026 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:29:17,045 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:29:37,898 ERROR BasePage.py-37行:等待元素可见失败
+Traceback (most recent call last):
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\Common\BasePage.py", line 35, in wait_visibi_time
+    WebDriverWait(self.driver,timeout,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 90, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0080DF13+2219795]
+	Ordinal0 [0x007A2841+1779777]
+	Ordinal0 [0x006B423D+803389]
+	Ordinal0 [0x006E3025+995365]
+	Ordinal0 [0x006E31EB+995819]
+	Ordinal0 [0x00710F52+1183570]
+	Ordinal0 [0x006FE844+1108036]
+	Ordinal0 [0x0070F192+1175954]
+	Ordinal0 [0x006FE616+1107478]
+	Ordinal0 [0x006D7F89+950153]
+	Ordinal0 [0x006D8F56+954198]
+	GetHandleVerifier [0x00B02CB2+3040210]
+	GetHandleVerifier [0x00AF2BB4+2974420]
+	GetHandleVerifier [0x008A6A0A+565546]
+	GetHandleVerifier [0x008A5680+560544]
+	Ordinal0 [0x007A9A5C+1808988]
+	Ordinal0 [0x007AE3A8+1827752]
+	Ordinal0 [0x007AE495+1827989]
+	Ordinal0 [0x007B80A4+1867940]
+	BaseThreadInitThunk [0x760CFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F17B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F17B2E+238]
+
+2022-10-11 11:29:37,902 INFO BasePage.py-28行:错误截图输出的路径C:\Users\ThinkPad\PycharmProjects\pythonProject2\OutPuts\Screenshots\获取登录失败的数据_2022-29-11-11-29-37.png
+2022-10-11 11:29:41,297 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:29:41,298 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 11:29:41,325 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 11:29:41,876 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:29:41,877 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 11:29:41,886 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-11 11:29:42,009 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:29:42,010 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 11:29:42,019 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入元素
+2022-10-11 11:29:42,168 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:29:42,168 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:29:42,184 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:30:03,026 ERROR BasePage.py-37行:等待元素可见失败
+Traceback (most recent call last):
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\Common\BasePage.py", line 35, in wait_visibi_time
+    WebDriverWait(self.driver,timeout,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 90, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0080DF13+2219795]
+	Ordinal0 [0x007A2841+1779777]
+	Ordinal0 [0x006B423D+803389]
+	Ordinal0 [0x006E3025+995365]
+	Ordinal0 [0x006E31EB+995819]
+	Ordinal0 [0x00710F52+1183570]
+	Ordinal0 [0x006FE844+1108036]
+	Ordinal0 [0x0070F192+1175954]
+	Ordinal0 [0x006FE616+1107478]
+	Ordinal0 [0x006D7F89+950153]
+	Ordinal0 [0x006D8F56+954198]
+	GetHandleVerifier [0x00B02CB2+3040210]
+	GetHandleVerifier [0x00AF2BB4+2974420]
+	GetHandleVerifier [0x008A6A0A+565546]
+	GetHandleVerifier [0x008A5680+560544]
+	Ordinal0 [0x007A9A5C+1808988]
+	Ordinal0 [0x007AE3A8+1827752]
+	Ordinal0 [0x007AE495+1827989]
+	Ordinal0 [0x007B80A4+1867940]
+	BaseThreadInitThunk [0x760CFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F17B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F17B2E+238]
+
+2022-10-11 11:30:03,028 INFO BasePage.py-28行:错误截图输出的路径C:\Users\ThinkPad\PycharmProjects\pythonProject2\OutPuts\Screenshots\获取登录失败的数据_2022-30-11-11-30-03.png
+2022-10-11 11:30:06,548 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:30:06,549 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 11:30:06,576 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 11:30:07,111 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:30:07,111 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 11:30:07,121 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi元素
+2022-10-11 11:30:07,247 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:30:07,247 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 11:30:07,256 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 11:30:07,428 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:30:07,428 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:30:07,437 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:30:07,848 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:30:07,848 INFO BasePage.py-47行:获取获取登录失败的数据行为的('xpath', '//ul[@class="messages"]/li[1]')元素
+2022-10-11 11:30:07,859 INFO BasePage.py-83行:获取获取登录失败的数据行为的('xpath', '//ul[@class="messages"]/li[1]')元素
+2022-10-11 11:31:16,835 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:31:16,835 INFO BasePage.py-47行:获取点击登录行为的('link text', 'Sign In')元素
+2022-10-11 11:31:16,852 INFO BasePage.py-60行:获取点击登录行为的('link text', 'Sign In')元素
+2022-10-11 11:31:17,262 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:31:17,262 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 11:31:17,272 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi元素
+2022-10-11 11:31:17,388 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:31:17,388 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 11:31:17,398 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 11:31:17,582 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:31:17,583 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:31:17,593 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 11:31:17,975 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 11:31:17,975 INFO BasePage.py-47行:获取获取登录失败的数据行为的('xpath', '//ul[@class="messages"]/li[1]')元素
+2022-10-11 11:31:17,986 INFO BasePage.py-83行:获取获取登录失败的数据行为的('xpath', '//ul[@class="messages"]/li[1]')元素
+2022-10-11 15:18:14,768 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:18:14,769 INFO BasePage.py-47行:获取点击登录行为的('link text', 'Sign In')元素
+2022-10-11 15:18:14,782 INFO BasePage.py-60行:获取点击登录行为的('link text', 'Sign In')元素
+2022-10-11 15:18:15,425 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:18:15,425 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 15:18:15,437 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi元素
+2022-10-11 15:18:15,553 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:18:15,553 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 15:18:15,561 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 15:18:15,760 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:18:15,761 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:18:15,769 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:18:36,467 ERROR BasePage.py-37行:等待元素可见失败
+Traceback (most recent call last):
+  File "C:/Users/ThinkPad/PycharmProjects/pythonProject2/Common/BasePage.py", line 35, in wait_visibi_time
+    WebDriverWait(self.driver,timeout,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 90, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0080DF13+2219795]
+	Ordinal0 [0x007A2841+1779777]
+	Ordinal0 [0x006B423D+803389]
+	Ordinal0 [0x006E3025+995365]
+	Ordinal0 [0x006E31EB+995819]
+	Ordinal0 [0x00710F52+1183570]
+	Ordinal0 [0x006FE844+1108036]
+	Ordinal0 [0x0070F192+1175954]
+	Ordinal0 [0x006FE616+1107478]
+	Ordinal0 [0x006D7F89+950153]
+	Ordinal0 [0x006D8F56+954198]
+	GetHandleVerifier [0x00B02CB2+3040210]
+	GetHandleVerifier [0x00AF2BB4+2974420]
+	GetHandleVerifier [0x008A6A0A+565546]
+	GetHandleVerifier [0x008A5680+560544]
+	Ordinal0 [0x007A9A5C+1808988]
+	Ordinal0 [0x007AE3A8+1827752]
+	Ordinal0 [0x007AE495+1827989]
+	Ordinal0 [0x007B80A4+1867940]
+	BaseThreadInitThunk [0x760CFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F17B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F17B2E+238]
+
+2022-10-11 15:18:36,472 INFO BasePage.py-28行:错误截图输出的路径C:\Users\ThinkPad\PycharmProjects\pythonProject2\OutPuts\Screenshots\获取登录失败的数据_2022-18-11-15-18-36.png
+2022-10-11 15:19:27,629 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:19:27,629 INFO BasePage.py-47行:获取点击登录行为的('link text', 'Sign In')元素
+2022-10-11 15:19:27,645 INFO BasePage.py-60行:获取点击登录行为的('link text', 'Sign In')元素
+2022-10-11 15:19:28,015 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:19:28,016 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 15:19:28,024 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi元素
+2022-10-11 15:19:28,148 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:19:28,148 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 15:19:28,158 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 15:19:28,345 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:19:28,345 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:19:28,361 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:19:28,729 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:19:28,730 INFO BasePage.py-47行:获取获取登录失败的数据行为的('xpath', '//p[1]')元素
+2022-10-11 15:19:28,740 INFO BasePage.py-83行:获取获取登录失败的数据行为的('xpath', '//p[1]')元素
+2022-10-11 15:26:55,792 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:26:55,793 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:26:55,802 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:26:56,221 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:26:56,221 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 15:26:56,233 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入元素
+2022-10-11 15:26:56,348 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:26:56,349 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 15:26:56,358 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 15:26:56,548 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:26:56,549 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:26:56,561 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:27:17,030 ERROR BasePage.py-37行:等待元素可见失败
+Traceback (most recent call last):
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\Common\BasePage.py", line 35, in wait_visibi_time
+    WebDriverWait(self.driver,timeout,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 90, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0080DF13+2219795]
+	Ordinal0 [0x007A2841+1779777]
+	Ordinal0 [0x006B423D+803389]
+	Ordinal0 [0x006E3025+995365]
+	Ordinal0 [0x006E31EB+995819]
+	Ordinal0 [0x00710F52+1183570]
+	Ordinal0 [0x006FE844+1108036]
+	Ordinal0 [0x0070F192+1175954]
+	Ordinal0 [0x006FE616+1107478]
+	Ordinal0 [0x006D7F89+950153]
+	Ordinal0 [0x006D8F56+954198]
+	GetHandleVerifier [0x00B02CB2+3040210]
+	GetHandleVerifier [0x00AF2BB4+2974420]
+	GetHandleVerifier [0x008A6A0A+565546]
+	GetHandleVerifier [0x008A5680+560544]
+	Ordinal0 [0x007A9A5C+1808988]
+	Ordinal0 [0x007AE3A8+1827752]
+	Ordinal0 [0x007AE495+1827989]
+	Ordinal0 [0x007B80A4+1867940]
+	BaseThreadInitThunk [0x760CFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F17B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F17B2E+238]
+
+2022-10-11 15:27:17,032 INFO BasePage.py-28行:错误截图输出的路径C:\Users\ThinkPad\PycharmProjects\pythonProject2\OutPuts\Screenshots\获取登录失败的数据_2022-27-11-15-27-17.png
+2022-10-11 15:27:20,376 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:27:20,377 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:27:20,390 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:27:20,767 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:27:20,768 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 15:27:20,779 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-11 15:27:20,927 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:27:20,928 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 15:27:20,939 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入元素
+2022-10-11 15:27:21,105 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:27:21,106 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:27:21,126 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:27:41,655 ERROR BasePage.py-37行:等待元素可见失败
+Traceback (most recent call last):
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\Common\BasePage.py", line 35, in wait_visibi_time
+    WebDriverWait(self.driver,timeout,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 90, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0080DF13+2219795]
+	Ordinal0 [0x007A2841+1779777]
+	Ordinal0 [0x006B423D+803389]
+	Ordinal0 [0x006E3025+995365]
+	Ordinal0 [0x006E31EB+995819]
+	Ordinal0 [0x00710F52+1183570]
+	Ordinal0 [0x006FE844+1108036]
+	Ordinal0 [0x0070F192+1175954]
+	Ordinal0 [0x006FE616+1107478]
+	Ordinal0 [0x006D7F89+950153]
+	Ordinal0 [0x006D8F56+954198]
+	GetHandleVerifier [0x00B02CB2+3040210]
+	GetHandleVerifier [0x00AF2BB4+2974420]
+	GetHandleVerifier [0x008A6A0A+565546]
+	GetHandleVerifier [0x008A5680+560544]
+	Ordinal0 [0x007A9A5C+1808988]
+	Ordinal0 [0x007AE3A8+1827752]
+	Ordinal0 [0x007AE495+1827989]
+	Ordinal0 [0x007B80A4+1867940]
+	BaseThreadInitThunk [0x760CFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F17B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F17B2E+238]
+
+2022-10-11 15:27:41,655 INFO BasePage.py-28行:错误截图输出的路径C:\Users\ThinkPad\PycharmProjects\pythonProject2\OutPuts\Screenshots\获取登录失败的数据_2022-27-11-15-27-41.png
+2022-10-11 15:30:20,512 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:30:20,513 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:30:20,529 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:30:20,914 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:30:20,914 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 15:30:20,923 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-11 15:30:21,060 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:30:21,060 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 15:30:21,069 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 15:30:21,245 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:30:21,245 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:30:21,256 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:30:21,858 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:30:27,743 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:30:27,744 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:30:27,757 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:30:28,146 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:30:28,146 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 15:30:28,155 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-11 15:30:28,271 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:30:28,271 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 15:30:28,280 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入1234567元素
+2022-10-11 15:30:28,443 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:30:28,443 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:30:28,455 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:30:28,847 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:30:28,847 INFO BasePage.py-47行:获取获取登录失败的数据行为的('xpath', '//ul[@class="messages"]/li[1]')元素
+2022-10-11 15:30:28,857 INFO BasePage.py-83行:获取获取登录失败的数据行为的('xpath', '//ul[@class="messages"]/li[1]')元素
+2022-10-11 15:30:34,459 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:30:34,460 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:30:34,473 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:30:34,854 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:30:34,855 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 15:30:34,867 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi元素
+2022-10-11 15:30:34,986 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:30:34,987 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 15:30:34,995 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 15:30:35,168 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:30:35,169 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:30:35,180 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:30:35,557 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:30:35,557 INFO BasePage.py-47行:获取获取登录失败的数据行为的('xpath', '//ul[@class="messages"]/li[1]')元素
+2022-10-11 15:30:35,566 INFO BasePage.py-83行:获取获取登录失败的数据行为的('xpath', '//ul[@class="messages"]/li[1]')元素
+2022-10-11 15:30:41,505 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:30:41,506 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:30:41,518 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:30:42,092 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:30:42,092 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 15:30:42,102 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入元素
+2022-10-11 15:30:42,197 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:30:42,197 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 15:30:42,206 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 15:30:42,382 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:30:42,382 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:30:42,393 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:31:03,191 ERROR BasePage.py-37行:等待元素可见失败
+Traceback (most recent call last):
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\Common\BasePage.py", line 35, in wait_visibi_time
+    WebDriverWait(self.driver,timeout,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 90, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0080DF13+2219795]
+	Ordinal0 [0x007A2841+1779777]
+	Ordinal0 [0x006B423D+803389]
+	Ordinal0 [0x006E3025+995365]
+	Ordinal0 [0x006E31EB+995819]
+	Ordinal0 [0x00710F52+1183570]
+	Ordinal0 [0x006FE844+1108036]
+	Ordinal0 [0x0070F192+1175954]
+	Ordinal0 [0x006FE616+1107478]
+	Ordinal0 [0x006D7F89+950153]
+	Ordinal0 [0x006D8F56+954198]
+	GetHandleVerifier [0x00B02CB2+3040210]
+	GetHandleVerifier [0x00AF2BB4+2974420]
+	GetHandleVerifier [0x008A6A0A+565546]
+	GetHandleVerifier [0x008A5680+560544]
+	Ordinal0 [0x007A9A5C+1808988]
+	Ordinal0 [0x007AE3A8+1827752]
+	Ordinal0 [0x007AE495+1827989]
+	Ordinal0 [0x007B80A4+1867940]
+	BaseThreadInitThunk [0x760CFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F17B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F17B2E+238]
+
+2022-10-11 15:31:03,196 INFO BasePage.py-28行:错误截图输出的路径C:\Users\ThinkPad\PycharmProjects\pythonProject2\OutPuts\Screenshots\获取登录失败的数据_2022-31-11-15-31-03.png
+2022-10-11 15:31:06,396 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:31:06,396 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:31:06,408 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:31:06,806 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:31:06,807 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 15:31:06,815 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-11 15:31:06,944 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:31:06,945 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 15:31:06,954 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入元素
+2022-10-11 15:31:07,112 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:31:07,112 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:31:07,124 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:31:27,891 ERROR BasePage.py-37行:等待元素可见失败
+Traceback (most recent call last):
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\Common\BasePage.py", line 35, in wait_visibi_time
+    WebDriverWait(self.driver,timeout,poll_frequency).until(EC.visibility_of_element_located(locator))
+  File "C:\Users\ThinkPad\PycharmProjects\pythonProject2\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 90, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x0080DF13+2219795]
+	Ordinal0 [0x007A2841+1779777]
+	Ordinal0 [0x006B423D+803389]
+	Ordinal0 [0x006E3025+995365]
+	Ordinal0 [0x006E31EB+995819]
+	Ordinal0 [0x00710F52+1183570]
+	Ordinal0 [0x006FE844+1108036]
+	Ordinal0 [0x0070F192+1175954]
+	Ordinal0 [0x006FE616+1107478]
+	Ordinal0 [0x006D7F89+950153]
+	Ordinal0 [0x006D8F56+954198]
+	GetHandleVerifier [0x00B02CB2+3040210]
+	GetHandleVerifier [0x00AF2BB4+2974420]
+	GetHandleVerifier [0x008A6A0A+565546]
+	GetHandleVerifier [0x008A5680+560544]
+	Ordinal0 [0x007A9A5C+1808988]
+	Ordinal0 [0x007AE3A8+1827752]
+	Ordinal0 [0x007AE495+1827989]
+	Ordinal0 [0x007B80A4+1867940]
+	BaseThreadInitThunk [0x760CFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x76F17B5E+286]
+	RtlGetAppContainerNamedObjectPath [0x76F17B2E+238]
+
+2022-10-11 15:31:27,893 INFO BasePage.py-28行:错误截图输出的路径C:\Users\ThinkPad\PycharmProjects\pythonProject2\OutPuts\Screenshots\获取登录失败的数据_2022-31-11-15-31-27.png
+2022-10-11 15:33:41,026 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:33:41,027 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:33:41,040 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:33:41,439 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:33:41,439 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 15:33:41,451 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-11 15:33:41,568 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:33:41,568 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 15:33:41,576 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 15:33:41,766 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:33:41,766 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:33:41,776 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:33:43,072 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:33:48,216 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:33:48,217 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:33:48,227 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:33:48,628 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:33:48,628 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 15:33:48,636 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-11 15:33:48,755 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:33:48,755 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 15:33:48,763 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入1234567元素
+2022-10-11 15:33:48,954 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:33:48,954 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:33:48,968 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:33:49,321 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:33:49,321 INFO BasePage.py-47行:获取获取登录失败的数据行为的('xpath', '//ul[@class="messages"]/li[1]')元素
+2022-10-11 15:33:49,332 INFO BasePage.py-83行:获取获取登录失败的数据行为的('xpath', '//ul[@class="messages"]/li[1]')元素
+2022-10-11 15:33:54,505 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:33:54,506 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:33:54,520 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:33:54,889 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:33:54,889 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 15:33:54,900 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi元素
+2022-10-11 15:33:55,022 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:33:55,023 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 15:33:55,032 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 15:33:55,256 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:33:55,256 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:33:55,268 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:33:55,608 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:33:55,608 INFO BasePage.py-47行:获取获取登录失败的数据行为的('xpath', '//ul[@class="messages"]/li[1]')元素
+2022-10-11 15:33:55,620 INFO BasePage.py-83行:获取获取登录失败的数据行为的('xpath', '//ul[@class="messages"]/li[1]')元素
+2022-10-11 15:34:01,051 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:34:01,051 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:34:01,063 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:34:01,468 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:34:01,469 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 15:34:01,478 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入元素
+2022-10-11 15:34:01,590 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:34:01,590 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 15:34:01,600 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 15:34:01,791 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:34:01,791 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:34:01,803 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:34:02,139 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:34:02,140 INFO BasePage.py-47行:获取获取登录失败的数据行为的('xpath', '//p[1]')元素
+2022-10-11 15:34:02,149 INFO BasePage.py-83行:获取获取登录失败的数据行为的('xpath', '//p[1]')元素
+2022-10-11 15:34:07,475 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:34:07,476 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:34:07,494 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:34:07,942 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:34:07,942 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 15:34:07,957 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-11 15:34:08,124 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:34:08,124 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 15:34:08,138 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入元素
+2022-10-11 15:34:08,477 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:34:08,477 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:34:08,492 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:34:08,912 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:34:08,912 INFO BasePage.py-47行:获取获取登录失败的数据行为的('xpath', '//p[1]')元素
+2022-10-11 15:34:08,926 INFO BasePage.py-83行:获取获取登录失败的数据行为的('xpath', '//p[1]')元素
+2022-10-11 15:36:07,490 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:36:07,490 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:36:07,503 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:36:07,875 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:36:07,875 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 15:36:07,884 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-11 15:36:08,015 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:36:08,015 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 15:36:08,026 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 15:36:08,192 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:36:08,192 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:36:08,204 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:36:08,905 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:36:14,325 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:36:14,325 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:36:14,338 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:36:14,743 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:36:14,744 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 15:36:14,752 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-11 15:36:14,870 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:36:14,870 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 15:36:14,878 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入1234567元素
+2022-10-11 15:36:15,064 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:36:15,065 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:36:15,077 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:36:15,429 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:36:15,430 INFO BasePage.py-47行:获取获取登录失败的数据行为的('xpath', '//ul[@class="messages"]/li[1]')元素
+2022-10-11 15:36:15,440 INFO BasePage.py-83行:获取获取登录失败的数据行为的('xpath', '//ul[@class="messages"]/li[1]')元素
+2022-10-11 15:36:21,203 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:36:21,203 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:36:21,217 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:36:21,610 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:36:21,611 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 15:36:21,620 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi元素
+2022-10-11 15:36:21,732 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:36:21,732 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 15:36:21,741 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 15:36:21,927 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:36:21,927 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:36:21,938 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:36:22,312 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:36:22,312 INFO BasePage.py-47行:获取获取登录失败的数据行为的('xpath', '//ul[@class="messages"]/li[1]')元素
+2022-10-11 15:36:22,321 INFO BasePage.py-83行:获取获取登录失败的数据行为的('xpath', '//ul[@class="messages"]/li[1]')元素
+2022-10-11 15:36:27,669 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:36:27,669 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:36:27,681 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:36:28,104 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:36:28,104 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 15:36:28,113 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入元素
+2022-10-11 15:36:28,213 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:36:28,213 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 15:36:28,221 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入123456元素
+2022-10-11 15:36:28,396 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:36:28,396 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:36:28,408 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:36:28,745 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:36:28,746 INFO BasePage.py-47行:获取获取登录失败的数据行为的('xpath', '//p[1]')元素
+2022-10-11 15:36:28,757 INFO BasePage.py-83行:获取获取登录失败的数据行为的('xpath', '//p[1]')元素
+2022-10-11 15:36:35,329 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:36:35,330 INFO BasePage.py-47行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:36:35,340 INFO BasePage.py-60行:获取点击登录图标行为的('link text', 'Sign In')元素
+2022-10-11 15:36:35,682 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:36:35,682 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素
+2022-10-11 15:36:35,693 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="username"]')元素输入taozi1元素
+2022-10-11 15:36:35,810 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:36:35,810 INFO BasePage.py-47行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素
+2022-10-11 15:36:35,819 INFO BasePage.py-70行:获取输入用户名行为的('xpath', '//input[@name="password"]')元素输入元素
+2022-10-11 15:36:35,978 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:36:35,979 INFO BasePage.py-47行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:36:35,988 INFO BasePage.py-60行:获取点击登录行为的('xpath', '//input[@name="signon"]')元素
+2022-10-11 15:36:36,340 INFO BasePage.py-41行:等待元素可见成功
+2022-10-11 15:36:36,342 INFO BasePage.py-47行:获取获取登录失败的数据行为的('xpath', '//p[1]')元素
+2022-10-11 15:36:36,350 INFO BasePage.py-83行:获取获取登录失败的数据行为的('xpath', '//p[1]')元素
