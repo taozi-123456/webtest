@@ -1,5 +1,94 @@
 {
   "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
   "name" : "packages",
-  "children" : [ ]
+  "children" : [ {
+    "name" : "Test_Cases.test_login",
+    "children" : [ {
+      "name" : "test_login_success",
+      "uid" : "ea710492f76782bb",
+      "parentUid" : "6b48610976ddc41ed5d1db371d7808eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666081623101,
+        "stop" : 1666081624759,
+        "duration" : 1658
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_login_fail[case0]",
+      "uid" : "5ad4ac66a25f4067",
+      "parentUid" : "6b48610976ddc41ed5d1db371d7808eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666081630598,
+        "stop" : 1666081631965,
+        "duration" : 1367
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "{'username': 'taozi1', 'passwd': '1234567', 'check': 'Invalid username or password. Signon failed.'}" ]
+    }, {
+      "name" : "test_login_fail[case1]",
+      "uid" : "76d613fc549e0b96",
+      "parentUid" : "6b48610976ddc41ed5d1db371d7808eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666081638518,
+        "stop" : 1666081639807,
+        "duration" : 1289
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "{'username': 'taozi', 'passwd': '123456', 'check': 'Invalid username or password. Signon failed.'}" ]
+    }, {
+      "name" : "test_login_fail_spark[case0]",
+      "uid" : "cdd108570c42c147",
+      "parentUid" : "6b48610976ddc41ed5d1db371d7808eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666081647216,
+        "stop" : 1666081648628,
+        "duration" : 1412
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "{'username': '', 'passwd': '123456', 'check': 'Please enter your username and password.'}" ]
+    }, {
+      "name" : "test_login_fail_spark[case1]",
+      "uid" : "ff5057d3fda92e3a",
+      "parentUid" : "6b48610976ddc41ed5d1db371d7808eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666081657203,
+        "stop" : 1666081658755,
+        "duration" : 1552
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "{'username': 'taozi1', 'passwd': '', 'check': 'Please enter your username and password.'}" ]
+    } ],
+    "uid" : "Test_Cases.test_login"
+  } ]
 }
