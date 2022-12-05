@@ -1,0 +1,94 @@
+{
+  "uid" : "4fc8ede579d3148b",
+  "name" : "test_login_fail_spark[case0]",
+  "fullName" : "Test_Cases.test_login.Test_login#test_login_fail_spark",
+  "historyId" : "b25e5cb4259ffee6e487779d30980285",
+  "time" : {
+    "start" : 1665988408730,
+    "stop" : 1665988409898,
+    "duration" : 1168
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "init",
+    "time" : {
+      "start" : 1665988405612,
+      "stop" : 1665988408729,
+      "duration" : 3117
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "init::0",
+    "time" : {
+      "start" : 1665988409900,
+      "stop" : 1665988412154,
+      "duration" : 2254
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('init')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test_Cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_login"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-41KMUJO"
+  }, {
+    "name" : "thread",
+    "value" : "14544-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_Cases.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "{'username': '', 'passwd': '123456', 'check': 'Please enter your username and password.'}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.usefixtures('init')" ]
+  },
+  "source" : "4fc8ede579d3148b.json",
+  "parameterValues" : [ "{'username': '', 'passwd': '123456', 'check': 'Please enter your username and password.'}" ]
+}

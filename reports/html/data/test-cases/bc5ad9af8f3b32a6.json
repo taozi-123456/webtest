@@ -1,0 +1,200 @@
+{
+  "uid" : "bc5ad9af8f3b32a6",
+  "name" : "test_login_fail[case0]",
+  "fullName" : "Test_Cases.test_login.Test_login#test_login_fail",
+  "historyId" : "c167587ec06a148b12a30980b63b5b1d",
+  "time" : {
+    "start" : 1666078067003,
+    "stop" : 1666078068390,
+    "duration" : 1387
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 9,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ {
+    "name" : "init",
+    "time" : {
+      "start" : 1666078062477,
+      "stop" : 1666078067001,
+      "duration" : 4524
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "init",
+    "time" : {
+      "start" : 1666078070601,
+      "stop" : 1666078073706,
+      "duration" : 3105
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "init::0",
+    "time" : {
+      "start" : 1666078068392,
+      "stop" : 1666078070589,
+      "duration" : 2197
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "init::0",
+    "time" : {
+      "start" : 1666078074874,
+      "stop" : 1666078077074,
+      "duration" : 2200
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('init')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test_Cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_login"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-41KMUJO"
+  }, {
+    "name" : "thread",
+    "value" : "14364-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_Cases.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "{'username': 'taozi1', 'passwd': '1234567', 'check': 'Invalid username or password. Signon failed.'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "51fc57adfed33fd1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666076131449,
+        "stop" : 1666076133603,
+        "duration" : 2154
+      }
+    }, {
+      "uid" : "a8081ca89a5ed81f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666076056379,
+        "stop" : 1666076057641,
+        "duration" : 1262
+      }
+    }, {
+      "uid" : "f11b6399db1c1c57",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: cannot find Chrome binary\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00BDDF13+2219795]\n\tOrdinal0 [0x00B72841+1779777]\n\tOrdinal0 [0x00A8423D+803389]\n\tOrdinal0 [0x00AA0EC0+921280]\n\tOrdinal0 [0x00A9F179+913785]\n\tOrdinal0 [0x00AD36B9+1128121]\n\tOrdinal0 [0x00AD331A+1127194]\n\tOrdinal0 [0x00ACE616+1107478]\n\tOrdinal0 [0x00AA7F89+950153]\n\tOrdinal0 [0x00AA8F56+954198]\n\tGetHandleVerifier [0x00ED2CB2+3040210]\n\tGetHandleVerifier [0x00EC2BB4+2974420]\n\tGetHandleVerifier [0x00C76A0A+565546]\n\tGetHandleVerifier [0x00C75680+560544]\n\tOrdinal0 [0x00B79A5C+1808988]\n\tOrdinal0 [0x00B7E3A8+1827752]\n\tOrdinal0 [0x00B7E495+1827989]\n\tOrdinal0 [0x00B880A4+1867940]\n\tBaseThreadInitThunk [0x761BFA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77217B5E+286]\n\tRtlGetAppContainerNamedObjectPath [0x77217B2E+238]",
+      "time" : {
+        "start" : 1666059974848,
+        "stop" : 1666059974848,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ba6720828071db2d",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: cannot find Chrome binary\nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00BDDF13+2219795]\n\tOrdinal0 [0x00B72841+1779777]\n\tOrdinal0 [0x00A8423D+803389]\n\tOrdinal0 [0x00AA0EC0+921280]\n\tOrdinal0 [0x00A9F179+913785]\n\tOrdinal0 [0x00AD36B9+1128121]\n\tOrdinal0 [0x00AD331A+1127194]\n\tOrdinal0 [0x00ACE616+1107478]\n\tOrdinal0 [0x00AA7F89+950153]\n\tOrdinal0 [0x00AA8F56+954198]\n\tGetHandleVerifier [0x00ED2CB2+3040210]\n\tGetHandleVerifier [0x00EC2BB4+2974420]\n\tGetHandleVerifier [0x00C76A0A+565546]\n\tGetHandleVerifier [0x00C75680+560544]\n\tOrdinal0 [0x00B79A5C+1808988]\n\tOrdinal0 [0x00B7E3A8+1827752]\n\tOrdinal0 [0x00B7E495+1827989]\n\tOrdinal0 [0x00B880A4+1867940]\n\tBaseThreadInitThunk [0x761BFA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77217B5E+286]\n\tRtlGetAppContainerNamedObjectPath [0x77217B2E+238]",
+      "time" : {
+        "start" : 1666059957428,
+        "stop" : 1666059957428,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f6bfb624352500b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666058362359,
+        "stop" : 1666058363607,
+        "duration" : 1248
+      }
+    }, {
+      "uid" : "7b728b99f89f69cc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666058081863,
+        "stop" : 1666058083085,
+        "duration" : 1222
+      }
+    }, {
+      "uid" : "6a7b4cd6b4b85b68",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665988395605,
+        "stop" : 1665988396848,
+        "duration" : 1243
+      }
+    }, {
+      "uid" : "be0309ea7df39769",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665473774276,
+        "stop" : 1665473775457,
+        "duration" : 1181
+      }
+    }, {
+      "uid" : "ebcd05d8a21c1695",
+      "status" : "passed",
+      "time" : {
+        "start" : 1665473628142,
+        "stop" : 1665473629349,
+        "duration" : 1207
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.usefixtures('init')" ]
+  },
+  "source" : "bc5ad9af8f3b32a6.json",
+  "parameterValues" : [ "{'username': 'taozi1', 'passwd': '1234567', 'check': 'Invalid username or password. Signon failed.'}" ]
+}

@@ -1,0 +1,104 @@
+{
+  "uid" : "76d613fc549e0b96",
+  "name" : "test_login_fail[case1]",
+  "fullName" : "Test_Cases.test_login.Test_login#test_login_fail",
+  "historyId" : "ce469f5486b41c2a0f55aee02de55945",
+  "time" : {
+    "start" : 1666081638518,
+    "stop" : 1666081639807,
+    "duration" : 1289
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "init",
+    "time" : {
+      "start" : 1666081635278,
+      "stop" : 1666081638516,
+      "duration" : 3238
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "init::0",
+    "time" : {
+      "start" : 1666081639810,
+      "stop" : 1666081643113,
+      "duration" : 3303
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('init')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Test_Cases"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_login"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-41KMUJO"
+  }, {
+    "name" : "thread",
+    "value" : "12244-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Test_Cases.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "case",
+    "value" : "{'username': 'taozi', 'passwd': '123456', 'check': 'Invalid username or password. Signon failed.'}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "92d8d195e20c27d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1666079062984,
+        "stop" : 1666079064209,
+        "duration" : 1225
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.usefixtures('init')" ]
+  },
+  "source" : "76d613fc549e0b96.json",
+  "parameterValues" : [ "{'username': 'taozi', 'passwd': '123456', 'check': 'Invalid username or password. Signon failed.'}" ]
+}
